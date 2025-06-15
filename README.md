@@ -3,7 +3,9 @@
 This project analyzes Uber pickup data in New York City to identify patterns based on time and day of the week. The goal is to help uncover when Uber demand is highest and inform operational strategies.
 
 ##  Dataset
-The dataset contains Uber pickup records including timestamps and locations.
+- The dataset contains Uber pickup records including timestamps and locations.
+- Note: Due to dataset size restrictions, the dataset is not included in this repository.
+If you would like to access the data, please contact the project author.
 
 ##  Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
@@ -21,7 +23,8 @@ The dataset contains Uber pickup records including timestamps and locations.
 
 ##  How to Run
 1. Open the `Uber_Geospatial_Analysis.ipynb` notebook
-2. Run all cells to reproduce the analysis
+All analysis outputs are already rendered.
+You can scroll through and read the results without needing to run the code.
 
 ##  Status
 Finished 
